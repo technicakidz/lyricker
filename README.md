@@ -15,7 +15,7 @@
 ## Install
 
 ```
-$pip install django
+$pip install flask
 ```
 
 ## Contribution
