@@ -5,8 +5,12 @@ name = "pypi"
 
 [packages]
 flask = "*"
+werkzeug = ">=0.15.3"
+Jinja2 = ">=2.11.3"
 
 [dev-packages]
+werkzeug = ">=0.15.3"
+Jinja2 = ">=2.11.3"
 
 [requires]
 python_version = "3.6"
